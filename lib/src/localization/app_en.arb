@@ -1,0 +1,6 @@
+{
+  "appTitle": "google_analytic_poc",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
