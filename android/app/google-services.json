@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871552481913",
+    "project_id": "analytic-poc-37664",
+    "storage_bucket": "analytic-poc-37664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871552481913:android:06f9b04577aca3dc1232a8",
+        "android_client_info": {
+          "package_name": "com.example.google_analytic_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWA4CHK5ggPyHoQI7jxuaoKSrp2TYdNqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
